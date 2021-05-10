@@ -1,0 +1,3 @@
+Hej! 
+Jag är en elev på tullinge gymnasium. Jag har påbörjat ett projekt där jag tänker försöka göra en enkel talsyntes som gymnasiearbete. För det skulle jag behöva en ordlista med orden uppdelade i fonem. Vet ni var något sådant skulle kunna finnas.
+mvh Marcus Lengquist 

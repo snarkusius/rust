@@ -1,0 +1,15 @@
+
+kod räferänser
+https://github.com/RustAudio/cpal
+https://rust.audio/
+https://github.com/RustAudio/deepspeech-rs
+
+språk källor
+https://www.kth.se/is/tmh/research/speech-and-language-technologies-1.780116
+
+https://www.svenskaakademien.se/
+email: sekretariat@svenskaakademien.se
+https://nlp.cs.lth.se/
+
+andra som gjort liknande
+https://www.cstr.ed.ac.uk/projects/festival/
